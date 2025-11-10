@@ -1,0 +1,3 @@
+cryptocurrency,usd_price,inr_price,timestamp,data_source,ingestion_timestamp
+bitcoin,104855.0,9303948,2025-11-10 16:48:13.170518,api_crypto,2025-11-10 16:48:13.429426
+ethereum,3512.8,311697,2025-11-10 16:48:13.170523,api_crypto,2025-11-10 16:48:13.429426

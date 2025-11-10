@@ -1,0 +1,170 @@
+[
+  {
+    "gender": "female",
+    "name": {
+      "title": "Madame",
+      "first": "Christel",
+      "last": "Boyer"
+    },
+    "location": {
+      "street": {
+        "number": 4799,
+        "name": "Rue de Gerland"
+      },
+      "city": "Randa",
+      "state": "Glarus",
+      "country": "Switzerland",
+      "postcode": 2312,
+      "coordinates": {
+        "latitude": "-58.5171",
+        "longitude": "139.9282"
+      },
+      "timezone": {
+        "offset": "+3:00",
+        "description": "Baghdad, Riyadh, Moscow, St. Petersburg"
+      }
+    },
+    "email": "christel.boyer@example.com",
+    "login": {
+      "uuid": "214878a4-30dc-4698-a869-ba63a82401a6",
+      "username": "organicpeacock678",
+      "password": "highland",
+      "salt": "d2XxJI4G",
+      "md5": "0bf79018944cc8d37419072a1ba94078",
+      "sha1": "b53e43f4197c022f0ca705e99f66f8b44dbf2677",
+      "sha256": "b397b27a97e79468d60fd15f427c4c033aa74a51eff7daca6f756876853518aa"
+    },
+    "dob": {
+      "date": "1966-07-27T18:47:30.675Z",
+      "age": 59
+    },
+    "registered": {
+      "date": "2006-03-22T07:20:18.945Z",
+      "age": 19
+    },
+    "phone": "076 006 39 32",
+    "cell": "078 188 02 64",
+    "id": {
+      "name": "AVS",
+      "value": "756.7251.3643.82"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/women/62.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/women/62.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/women/62.jpg"
+    },
+    "nat": "CH"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Ernesto",
+      "last": "Porto"
+    },
+    "location": {
+      "street": {
+        "number": 7126,
+        "name": "Avenida da Legalidade"
+      },
+      "city": "Teresópolis",
+      "state": "Ceará",
+      "country": "Brazil",
+      "postcode": 93071,
+      "coordinates": {
+        "latitude": "78.1520",
+        "longitude": "-58.9434"
+      },
+      "timezone": {
+        "offset": "+4:30",
+        "description": "Kabul"
+      }
+    },
+    "email": "ernesto.porto@example.com",
+    "login": {
+      "uuid": "4a2ce03a-7c48-426a-b5d3-035cab0e3e43",
+      "username": "tinyleopard855",
+      "password": "commande",
+      "salt": "sm6U8mZ6",
+      "md5": "13d341865f6ab73763810d1bf407dd37",
+      "sha1": "180d067b0c640a6ddeec5e157d0b0f2545716cf4",
+      "sha256": "be152b9a44ca07cd3779421ffb5310004f58f5dfb02494b0fe5668024cd6cb77"
+    },
+    "dob": {
+      "date": "1987-03-11T19:49:55.603Z",
+      "age": 38
+    },
+    "registered": {
+      "date": "2014-11-28T11:07:13.267Z",
+      "age": 10
+    },
+    "phone": "(36) 6518-8706",
+    "cell": "(01) 3699-0156",
+    "id": {
+      "name": "CPF",
+      "value": "467.797.953-90"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/64.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/64.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/64.jpg"
+    },
+    "nat": "BR"
+  },
+  {
+    "gender": "female",
+    "name": {
+      "title": "Miss",
+      "first": "Blanca",
+      "last": "Ramírez"
+    },
+    "location": {
+      "street": {
+        "number": 9735,
+        "name": "Calle de Arganzuela"
+      },
+      "city": "Vitoria",
+      "state": "Islas Baleares",
+      "country": "Spain",
+      "postcode": 32382,
+      "coordinates": {
+        "latitude": "76.1370",
+        "longitude": "90.6434"
+      },
+      "timezone": {
+        "offset": "+9:00",
+        "description": "Tokyo, Seoul, Osaka, Sapporo, Yakutsk"
+      }
+    },
+    "email": "blanca.ramirez@example.com",
+    "login": {
+      "uuid": "f3de3e8d-baa5-4aa8-adec-0a025afe128a",
+      "username": "orangeduck135",
+      "password": "123123",
+      "salt": "OVvyuOCd",
+      "md5": "fd85e90b15259510e8e43dc9f391241f",
+      "sha1": "2c05b4efdc2582106b11f69541da16fb61045c66",
+      "sha256": "3bfabc9ec7eea79886d82fd07d6a0b6b08fa0ed8df04d05ba98437fb50a49c10"
+    },
+    "dob": {
+      "date": "2000-12-04T16:22:01.419Z",
+      "age": 24
+    },
+    "registered": {
+      "date": "2015-04-28T15:34:33.010Z",
+      "age": 10
+    },
+    "phone": "983-316-767",
+    "cell": "605-242-451",
+    "id": {
+      "name": "DNI",
+      "value": "17119446-O"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/women/19.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/women/19.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/women/19.jpg"
+    },
+    "nat": "ES"
+  }
+]

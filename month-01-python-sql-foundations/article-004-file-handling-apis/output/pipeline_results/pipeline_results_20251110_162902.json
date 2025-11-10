@@ -1,0 +1,27 @@
+{
+  "timestamp": "2025-11-10T16:29:01.945326",
+  "sources": {
+    "api": {
+      "status": "success",
+      "records": 2
+    },
+    "database": {
+      "status": "failed",
+      "error": "Database connection failed"
+    },
+    "files": {
+      "status": "success",
+      "sources": [
+        "api_crypto",
+        "file_csv",
+        "file_json",
+        "file_excel"
+      ]
+    }
+  },
+  "errors": [],
+  "s3_upload": {
+    "status": "success",
+    "timestamp": "20251110_162902"
+  }
+}

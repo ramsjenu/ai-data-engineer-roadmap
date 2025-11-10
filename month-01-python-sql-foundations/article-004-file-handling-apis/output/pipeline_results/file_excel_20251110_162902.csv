@@ -1,0 +1,11 @@
+Date,Product,Price,Quantity,Region,Revenue,data_source,ingestion_timestamp
+2025-01-01,Laptop,75000,2,West,150000,file_excel,2025-11-10 16:29:02.335123
+2025-01-02,Mouse,500,10,East,5000,file_excel,2025-11-10 16:29:02.335123
+2025-01-03,Keyboard,1500,5,North,7500,file_excel,2025-11-10 16:29:02.335123
+2025-01-04,Monitor,25000,1,South,25000,file_excel,2025-11-10 16:29:02.335123
+2025-01-05,Headphones,2000,4,West,8000,file_excel,2025-11-10 16:29:02.335123
+2025-01-06,Laptop,75000,2,West,150000,file_excel,2025-11-10 16:29:02.335123
+2025-01-07,Mouse,500,10,East,5000,file_excel,2025-11-10 16:29:02.335123
+2025-01-08,Keyboard,1500,5,North,7500,file_excel,2025-11-10 16:29:02.335123
+2025-01-09,Monitor,25000,1,South,25000,file_excel,2025-11-10 16:29:02.335123
+2025-01-10,Headphones,2000,4,West,8000,file_excel,2025-11-10 16:29:02.335123

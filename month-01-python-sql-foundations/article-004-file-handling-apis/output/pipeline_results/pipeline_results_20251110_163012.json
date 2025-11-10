@@ -1,0 +1,27 @@
+{
+  "timestamp": "2025-11-10T16:30:11.933055",
+  "sources": {
+    "api": {
+      "status": "success",
+      "records": 2
+    },
+    "database": {
+      "status": "failed",
+      "error": "(psycopg2.errors.UndefinedColumn) column o.order_id does not exist\nLINE 3:                 o.order_id,\n                        ^\n\n[SQL: \n            SELECT \n                o.order_id,\n                c.name as customer_name,\n                p.name as product_name,\n                o.quantity,\n                p.price,\n                (o.quantity * p.price) as revenue,\n                o.order_date,\n                o.region\n            FROM orders o\n            JOIN customers c ON o.customer_id = c.customer_id\n            JOIN products p ON o.product_id = p.product_id\n            WHERE o.status = 'Delivered'\n            ]\n(Background on this error at: https://sqlalche.me/e/20/f405)"
+    },
+    "files": {
+      "status": "success",
+      "sources": [
+        "api_crypto",
+        "file_csv",
+        "file_json",
+        "file_excel"
+      ]
+    }
+  },
+  "errors": [],
+  "s3_upload": {
+    "status": "success",
+    "timestamp": "20251110_163012"
+  }
+}

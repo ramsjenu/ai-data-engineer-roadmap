@@ -1,0 +1,4 @@
+id,name,price,category,in_stock,tags,data_source,ingestion_timestamp
+1,Laptop,75000,Electronics,True,"['computer', 'portable', 'work']",file_json,2025-11-10 16:48:13.430502
+2,Mouse,500,Electronics,True,"['computer', 'accessory']",file_json,2025-11-10 16:48:13.430502
+3,Keyboard,1500,Electronics,False,"['computer', 'accessory', 'mechanical']",file_json,2025-11-10 16:48:13.430502
